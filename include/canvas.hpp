@@ -1,9 +1,9 @@
 #ifndef CANVAS_HPP
 
 ///
-//test'''yjy
-// git test
-//3aaa
+
+
+//
 
 #define CANVAS_HPP
 
