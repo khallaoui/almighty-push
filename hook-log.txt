@@ -1,3 +1,6 @@
 Hook triggered on 26/02/2025 at 22:07:22,10 
 Post-push hook triggered!
 "Playing sound..." 
+Pre-push hook triggered!
+Pre-push hook triggered!
+Pre-push hook triggered!
