@@ -1,9 +1,8 @@
 #ifndef CANVAS_HPP
 
 //
-
-//yyu
-//jjj
+//
+//jhj
 
 #define CANVAS_HPP
 
